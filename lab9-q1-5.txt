@@ -1,0 +1,11 @@
+1.   (1) S
+     (2) T
+     (3) 6940
+     (4) S
+     (5) 9772
+
+2.   D. *p=75;
+
+3.   *p points to character value. So, double can not be used.
+
+4.	
